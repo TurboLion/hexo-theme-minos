@@ -44,6 +44,9 @@ toc: false
 fancybox: true
 
 # Miscellaneous
+email_name:
+email_host:
+google_adsense:
 google_analytics:
 favicon: /favicon.png
 
